@@ -5,5 +5,8 @@
 public class git {
 
     private String name;
+    private String age;
+    private String password;
+
 
 }
